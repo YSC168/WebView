@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">浏览器</string>
+	<string name="fab_scrolling_behavior_fade">com.webview.app.ScrollAwareFABBehavior</string>
+	
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
